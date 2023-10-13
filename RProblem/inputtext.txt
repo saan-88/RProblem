@@ -1,0 +1,9 @@
+It is very important that multiplication in a product of several polynomial factors
+be viewed as generating the collection of all formal products obtained by multiplying
+together a term from each polynomial factor. If the ith polynomial factor contains ri
+different terms and there are n factors, then there will be r1 ×r2 ×r3 ×···×rn different
+formal products. For example, there will be 2n formal products in the expansion
+of (1 + x)n.
+In the expansion of (1 + x + x 2)
+4, the set of all formal products will be sequences
+of the form
